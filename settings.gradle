@@ -1,0 +1,2 @@
+include ':app', ':passwordeditortext'
+rootProject.name='mView'
